@@ -58,13 +58,6 @@ Currently, I'm enhancing my skills through a challenging internship with NTT Dat
 ---
 
 
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ramonatarantino.ramonatarantino&"  />
-</div>
-
-
 <p align="center">
   <b>⭐️ From ramonatarantino(https://github.com/ramonatarantino)</b>
 </p>
