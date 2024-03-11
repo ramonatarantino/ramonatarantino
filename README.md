@@ -53,15 +53,15 @@ Currently, I'm enhancing my skills through a challenging internship with NTT Dat
 
 - Let's connect! Feel free to reach out for collaborations or just a chat.
 - 📧 Email: ramonatarantino00@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ramona-tarantino](https://www.linkedin.com/in/ramona-tarantino)
+- 💼 LinkedIn: [linkedin.com/in/ramona-tarantino](https://www.linkedin.com/in/ramona-tarantino-5a33a31b2/)
 
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=yourusername.yourrepository" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ramonatarantino.ramonatarantino" alt="visitor badge"/>
 </div>
 
 <p align="center">
-  <b>⭐️ From [yourusername](https://github.com/yourusername)</b>
+  <b>⭐️ From ramonatarantino(https://github.com/ramonatarantino)</b>
 </p>
 
